@@ -1,0 +1,6 @@
+train: C:\Users\16756\OneDrive\Desktop\numberplate detection\car_license_plate.v1i.yolov8\train
+val: C:\Users\16756\OneDrive\Desktop\numberplate detection\car_license_plate.v1i.yolov8\valid
+test: C:\Users\16756\OneDrive\Desktop\numberplate detection\car_license_plate.v1i.yolov8\test
+
+nc: 1
+names: ['licence']
